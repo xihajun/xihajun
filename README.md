@@ -21,7 +21,9 @@
 
 ---
 
-## Past (Pre-2025)
+## Past Public Projects (Pre-2025)
+- KRAI (GenAI Inference)
+  - [Stable Diffusion XL (make it 3x faster)](https://www.qualcomm.com/developer/blog/2025/06/learn-to-optimize-sdxl-on-qualcomm-cloud-ai-100)
 - University of Edinburgh - Gaelic
   - Unlocked NLP for a low-resource language by training a transformer with a mixed-teacher (rule + synthetic data) method
   - Spelling checking for low resource language: https://angocair.garg.ed.ac.uk/
@@ -32,16 +34,15 @@
 
 
 ## Projects
-
 - 🧠 **NLP** – [Trained a Transformer Model for low resource language](http://angocair.garg.ed.ac.uk/)
+- 👁 **Computer Vision** – [Stable Diffusion XL](https://www.qualcomm.com/developer/blog/2025/06/learn-to-optimize-sdxl-on-qualcomm-cloud-ai-100)
 - 👁 **Computer Vision** – [Footprints AutoCrop](https://github.com/xihajun/footwear-project)
 - 🔍 **Cybersecurity: OWASP Seraphimdroid (GSoC)** – [repo](https://github.com/xihajun/OWASP-Seraphimdroid)
-- 🧬 **Genomic: ISGverse** – [app](https://isgverse.org)
-- 🧪 **Genomic: COBRA** – [docs](http://cobrajf.readthedocs.io)
 - 📊 **Cybersecurity: Vulnerability Detection (ML)** – [repo](https://github.com/xihajun/uob-summer-project)
 - 🌐 **Blockchain Implementation** – [repo](https://github.com/xihajun/bitcoin)
 - 📈 **Complex Networks** – [repo](https://github.com/xihajun/Complexnets)
-- ⌨️ **TypeCode** – [repo](https://github.com/xihajun/typecode)
+- 🧬 **Genomic: ISGverse** – [app](https://isgverse.org)
+- 🧪 **Genomic: COBRA** – [docs](http://cobrajf.readthedocs.io)
 
 ---
 

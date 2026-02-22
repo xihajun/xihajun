@@ -15,34 +15,33 @@
 
 ## Current
 
-- 🚀 **TopVibeCoder / VibeBench** – AI leaderboard + evaluation pipeline  
+- 🚀 **TopVibeCoder / VibeBench** – App leaderboard + evaluation pipeline
 - 🧩 **Podcut** – Auto Podcast Editing Platform
 - ⚙️ Automation pipelines (GitHub Actions + DB + static output)
-
----
-
-## Projects
-
-- 🧠 **NLP** – [Type Correction](http://angocair.garg.ed.ac.uk/)
-- 👁 **Computer Vision** – [Footprints AutoCrop](https://github.com/xihajun/footwear-project)
-- 🔍 **OWASP Seraphimdroid (GSoC)** – [repo](https://github.com/xihajun/OWASP-Seraphimdroid)
-- 🧬 **ISGverse** – [app](https://isgverse.org)
-- 🧪 **COBRA** – [docs](http://cobrajf.readthedocs.io)
-- 📊 **Vulnerability Detection (ML)** – [repo](https://github.com/dj311/uob-summer-project)
-- 🌐 **Blockchain Implementation** – [repo](https://github.com/xihajun/bitcoin)
-- 📈 **Complex Networks** – [repo](https://github.com/xihajun/Complexnets)
-- ⌨️ **TypeCode** – [repo](https://github.com/xihajun/typecode)
 
 ---
 
 ## Past (Pre-2025)
 - University of Edinburgh - Gaelic
   - Unlocked NLP for a low-resource language by training a transformer with a mixed-teacher (rule + synthetic data) method
-  - Spelling checking for low research language: https://angocair.garg.ed.ac.uk/
+  - Spelling checking for low resource language: https://angocair.garg.ed.ac.uk/
 - University of Cambridge – Samarajiwa Lab  (2020-2022)
   - Bioinformatics pipelines (Docker, MACS2/3, bpipe)  
   - R/Shiny templates  
   - ML coursework (KNN, RF, GP, SMOTE, CNN, AutoEncoder)
+
+
+## Projects
+
+- 🧠 **NLP** – [Trained a Transformer Model for low resource language](http://angocair.garg.ed.ac.uk/)
+- 👁 **Computer Vision** – [Footprints AutoCrop](https://github.com/xihajun/footwear-project)
+- 🔍 **Cybersecurity: OWASP Seraphimdroid (GSoC)** – [repo](https://github.com/xihajun/OWASP-Seraphimdroid)
+- 🧬 **Genomic: ISGverse** – [app](https://isgverse.org)
+- 🧪 **Genomic: COBRA** – [docs](http://cobrajf.readthedocs.io)
+- 📊 **Cybersecurity: Vulnerability Detection (ML)** – [repo](https://github.com/xihajun/uob-summer-project)
+- 🌐 **Blockchain Implementation** – [repo](https://github.com/xihajun/bitcoin)
+- 📈 **Complex Networks** – [repo](https://github.com/xihajun/Complexnets)
+- ⌨️ **TypeCode** – [repo](https://github.com/xihajun/typecode)
 
 ---
 
